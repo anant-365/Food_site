@@ -303,12 +303,19 @@ form {
     padding-bottom: 34px;
     width: 100%;
 }
-#contact-box input,#contact-box textarea {
+#contact-box input{
     width: 100%;
     padding: 0.5rem;
     border-radius: 9px;
     font-size: 1.1rem;
-    border:3px solid black;
+    border: 3px solid black;
+}
+#contact-box textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+    border: 3px solid black;
 }
 
 #contact-box form {
